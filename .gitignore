@@ -1,7 +1,8 @@
-node_modules
-dist
+node_modules/
+dist/
 .DS_Store
 *.local
-usePosts.js
-config.js
-posts.js
+
+**/usePosts.js
+**/config.js
+**/posts.js
